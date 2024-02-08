@@ -1,0 +1,6 @@
+vivado/*
+vivado_*
+vivado.*
+
+*.swp
+*.log
